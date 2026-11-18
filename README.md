@@ -122,4 +122,45 @@ The application displays three machine condition categories:
 
 **Try the application here:**
 
-[Machine Fault Prediction – Streamlit Web App](https://machine
+[Machine Fault Prediction – Streamlit Web App](https://machinefaultprediction-cxnucd9yhvjedkezst4ffy.streamlit.app/)
+
+## 📂 Repository Structure
+
+```text
+MACHINE_FAULT_PREDICTION/
+│
+├── MACHINE_FAULT_PREDICTION.ipynb
+├── app.py
+├── machine_fault_model.pkl
+├── requirements.txt
+└── README.md
+```
+
+## 🔮 Future Scope
+
+- Integration with real-time industrial sensors.
+- IoT-based machine monitoring.
+- Testing with real industrial datasets.
+- Detection of specific machine fault types.
+- Real-time maintenance alerts.
+- Improved prediction models and dashboards.
+
+## ⚠️ Limitations
+
+The current implementation uses synthetic machine data rather than measurements collected from actual industrial machinery. Further validation using real-world sensor data is necessary before practical industrial deployment.
+
+## 📚 Project Resources
+
+| Resource | Link |
+|---|---|
+| Live Prototype | [Streamlit Application](https://machinefaultprediction-cxnucd9yhvjedkezst4ffy.streamlit.app/) |
+| Source Code | [GitHub Repository](https://github.com/RiyaGupta07/MACHINE_FAULT_PREDICTION) |
+| Original Notebook | [Google Colab](https://colab.research.google.com/drive/1kW24hRjOEV5wnc1Zqe97V7K68j0xrkTJ?usp=sharing) |
+
+---
+
+**Project Type:** B.Tech Mechanical Engineering Minor Project
+
+**Institution:** National Institute of Technology Agartala
+
+**Domain:** Machine Learning | Predictive Maintenance | Mechanical Engineering
